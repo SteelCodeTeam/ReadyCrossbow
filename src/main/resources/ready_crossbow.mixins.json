@@ -1,9 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "team.steelcode.idokeepitloadedson.mixin",
+  "package": "team.steelcode.ready_crossbow.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "AutoChargeCrossbowMixin",
+    "PiglinCrossbowAttackMixin",
+    "RangedCrossbowAttackGoalMixin"
   ],
   "client": [
   ],

@@ -1,4 +1,4 @@
-package team.steelcode.metallics_arts.mixin;
+package team.steelcode.ready_crossbow.mixin;
 
 import net.minecraft.core.component.DataComponents;
 import net.minecraft.world.DifficultyInstance;
